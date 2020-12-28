@@ -1,0 +1,145 @@
+@font-face {
+  font-family: 'Circular Std';
+  src: url('~@/assets/font/CircularStd-Book.otf') format('woff');
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+body {
+  height: 100%;
+  width: 100%;
+}
+
+:root {
+  --color-primary: #301b6b;
+}
+
+.expand-enter-active,
+.expand-leave-active {
+  transition: height 350ms cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+  overflow: hidden;
+}
+
+.animate {
+  @apply transition-all;
+  @apply duration-300;
+  @apply ease-in;
+}
+
+.bg-gradiant {
+  background: linear-gradient(45deg, #fff9f0 0%, #fdf3f6 50%, #f3f8fe 100%);
+}
+.bg-text-gradiant {
+  background: linear-gradient(
+    91.48deg,
+    #307ae9 0%,
+    #3e30e9 21.35%,
+    #b11da2 44.27%,
+    #fd2626 66.67%,
+    #ff7f37 83.85%,
+    #ff9900 100%
+  );
+
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.container {
+  @apply mx-auto;
+  /* @apply min-h-screen; */
+  @apply px-6;
+}
+.container-customize {
+  max-height: auto !important;
+}
+@md {
+  .container {
+    @apply px-12;
+  }
+}
+.app-button {
+  outline: none !important;
+  @apply bg-primary;
+  @apply rounded-md;
+  @apply py-2;
+  @apply px-3;
+  @apply text-white;
+  @apply text-xs;
+}
+
+.r-hex {
+  overflow: hidden;
+  display: inline-block;
+  margin: 1em 0;
+  width: 15rem;
+  height: 13em;
+  transform: rotate(-30deg) skewX(30deg);
+  border-radius: 1.3em;
+}
+.r-hex *,
+.r-hex *:before {
+  display: block;
+  overflow: hidden;
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+}
+.r-hex-inner {
+  transform: skewX(-30deg) rotate(60deg) skewX(30deg);
+  opacity: 1;
+  transition: opacity 0.75s;
+  cursor: pointer;
+}
+.r-hex:first-child .r-hex-inner:before,
+.r-hex-inner-2 {
+  transform: skewX(-30deg) rotate(60deg) skewX(30deg);
+  /* background: orange; */
+  /* content: ''; */
+}
+.r-hex-inner-2:before {
+  margin-top: -1.5em;
+  height: 15rem;
+  transform: skewX(-30deg) rotate(-90deg);
+  background-size: cover;
+  line-height: 15rem;
+  text-align: center;
+  background-position: center;
+  content: '';
+}
+.r-hex-inner:hover {
+  opacity: 0.15;
+}
+.food-wrap .r-hex-inner-2:before {
+  background: url(https://images2.minutemediacdn.com/image/upload/c_crop,h_1126,w_2000,x_0,y_181/f_auto,q_auto,w_1100/v1554932288/shape/mentalfloss/12531-istock-637790866.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.food-bliss .r-hex-inner-2:before {
+  background: url(~@/assets/img/food1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.description .r-hex-inner:hover {
+  opacity: 1;
+}
+.description>div:nth-child(1) {
+  transform: translate(0px, -70px);
+  
+}
+@media only screen and (max-width: 768px) {
+  .description>div:nth-child(1) {
+    transform: translate(0px, -0px);
+    display: flex;
+    justify-content: center;
+    
+  }
+}
+div.container-customize {
+  min-height: auto !important;
+}

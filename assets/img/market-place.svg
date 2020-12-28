@@ -1,0 +1,29 @@
+<svg id="undraw_my_feed_inj0" xmlns="http://www.w3.org/2000/svg" width="271" height="173" viewBox="0 0 271 173">
+  <rect id="aea5e876-5b18-4677-ac52-565f186c2754" width="271" height="173" fill="#e6e6e6"/>
+  <rect id="aeed2be9-3178-4cee-b478-9db2d7f97a20" width="255" height="141" transform="translate(8 22)" fill="#fff"/>
+  <rect id="b3ae8885-9a9e-4403-9d49-07bff8102aa7" width="271" height="11" fill="#6c63ff"/>
+  <rect id="b27f3643-394f-4790-b443-091b1b383c54" width="93" height="89" transform="translate(148 37)" fill="#e6e6e6"/>
+  <circle id="e395ce2b-339a-464a-b2a8-2798fb0dfcd4" cx="2" cy="2" r="2" transform="translate(7 4)" fill="#fff"/>
+  <circle id="ba9fbbde-097d-4714-9aa4-a15d83836bc3" cx="2" cy="2" r="2" transform="translate(15 4)" fill="#fff"/>
+  <circle id="ab9aef1c-a9cb-4a01-bb5b-9a91a857f5fb" cx="2" cy="2" r="2" transform="translate(23 4)" fill="#fff"/>
+  <rect id="e493c728-f703-42a2-881c-386585883b73" width="25" height="25" transform="translate(27 37)" fill="#6c63ff"/>
+  <rect id="fef75a5d-72e7-4f52-be39-ca98924ebad3" width="25" height="25" transform="translate(62 37)" fill="#e6e6e6"/>
+  <rect id="b42a9be3-8096-4c9f-95c4-e18278a3579e" width="25" height="82" transform="translate(62 71)" fill="#6c63ff"/>
+  <rect id="e3bd9f8a-f01d-48ae-a6f1-3d5ac6753111" width="25" height="42" transform="translate(27 71)" fill="#e6e6e6"/>
+  <path id="b03a159e-94f4-480c-9a5d-9f23eb0385fc" d="M31.637,7.11C27.536.341,19.426.026,19.426.026s-7.9-.987-12.975,9.321C1.725,18.956-4.8,28.232,5.4,30.483l1.842-5.6L8.385,30.9a40.844,40.844,0,0,0,4.364.073c10.922-.344,21.323.1,20.989-3.727C33.291,22.153,35.582,13.623,31.637,7.11Z" transform="translate(163 44)" fill="#2f2e41"/>
+  <path id="edc5401e-f5b9-4166-9a45-6d9296a0e0c2" d="M18.332,0,4.409,9.574S-3.712,18,2.089,18s8.121-7.277,8.121-7.277L28,3.063Z" transform="translate(148 117)" fill="#ffb8b8"/>
+  <path id="a1145783-9ad9-4920-9c36-7da703d314d6" d="M8.981,0S-3.077,37.06.751,38.959,13,42,13,42Z" transform="translate(163 79)" fill="#2f2e41"/>
+  <path id="a69c490e-693f-4e62-8a32-5b49f335d225" d="M8.981,0S-3.077,37.06.751,38.959,13,42,13,42Z" transform="translate(163 79)" opacity="0.1"/>
+  <path id="e424da1a-71ea-46da-8962-7b7b116f82e2" d="M27,10H0L19.183,0A12.257,12.257,0,0,1,20.4.925,25.035,25.035,0,0,1,27,10Z" transform="translate(183 116)" fill="#2f2e41"/>
+  <circle id="e1ba790b-7394-4885-ab4c-2c84c77f3e7f" cx="10" cy="10" r="10" transform="translate(169 50)" fill="#ffb8b8"/>
+  <path id="f3be7be2-223c-4c9b-8b5e-90f6ae9f04e0" d="M.243,4.792s2.319,7,0,9.585S13,10.69,13,10.69,7.588,3.318,9.134,0Z" transform="translate(179 64)" fill="#ffb8b8"/>
+  <path id="b8fe7dc2-df95-4ac5-a3bc-1c8e36bb8e76" d="M33.061,33.168l-.8,5.175s.406,1.176.9,2.888a45.569,45.569,0,0,1,1.662,8.021c.234,2.676-.119,4.831-1.8,4.967-2.405.2-3.658,1.637-4.906,3.78H.409c.073-1.179.161-2.4.264-3.663q.086-1.134.19-2.3c.077-.892,2.79-17.65.751-21.256C-2.6,23.336,2.763,19.064,2.763,19.064s.766-5.67.766-7.56c0-1.482,5.883-3.194,8.426-3.867.165-.042.31-.083.444-.113.44-.113.7-.178.7-.178l2.011-.814S20.764,5.455,21.147,4.7a1.946,1.946,0,0,1,.981-.688,13.98,13.98,0,0,0,2.084-.824,9.645,9.645,0,0,0,.946-1.27A5.134,5.134,0,0,1,27.977.289C32.09-.736,38,1.294,38,1.294L35.932,14.62Z" transform="translate(168 68)" fill="#2f2e41"/>
+  <path id="b7b1d332-0442-4c4a-aa9d-2d666bd52d71" d="M18.333,0,4.41,9.574S-3.712,18,2.089,18s8.12-7.276,8.12-7.276L28,3.064Z" transform="translate(195 93)" fill="#ffb8b8"/>
+  <path id="faae9d8a-2ade-475e-8bc6-8f0e7b87a797" d="M21.614,4.257,13.508,0,8.424.79a9.1,9.1,0,0,0-7.473,7L0,12l5.765-.223L7.376,8.008v3.707l2.66-.1,1.543-6L12.544,12,22,11.806Z" transform="translate(168 46)" fill="#2f2e41"/>
+  <path id="ba178fc8-375d-4438-9c01-c19893b0df8a" d="M0,.749,2.671,0S29.747,10.867,28.984,20.235s.381,9.367-4.195,9.743S6.867,25.856,7.246,25.106s3.051-4.5,3.051-4.5L0,12.74Z" transform="translate(203 69)" fill="#2f2e41"/>
+  <circle id="b052f10f-e5c3-45aa-968a-35c6c5894796" cx="1.5" cy="1.5" r="1.5" transform="translate(188 59)" fill="#ffb8b8"/>
+  <rect id="aa772a43-ca79-434e-998e-525da0608a2b" width="93" height="12" transform="translate(148 141)" fill="#e6e6e6"/>
+  <rect id="b869959f-3b5e-4542-9dd3-67ec9d40b083" width="25" height="31" transform="translate(27 122)" fill="#e6e6e6"/>
+  <rect id="ed8504c8-ba55-4496-b946-b31fe66f24a3" width="25" height="76" transform="translate(97 37)" fill="#e6e6e6"/>
+  <rect id="af23db80-e058-4986-866a-292ebf8abb10" width="25" height="31" transform="translate(97 122)" fill="#e6e6e6"/>
+</svg>
